@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/Komentarze-Done-success.svg)
 
-![](https://img.shields.io/badge/Dokumentacja-InProgres-orange.svg)
+![](https://img.shields.io/badge/Dokumentacja-Done-success.svg)
 
 Linki:
 * [Katalog zawierający pliki projektu](https://github.com/Presoon/Egzamin-AiSD-Mediana-Liczb-Rzeczywistych/tree/master/Mediana%20Liczb%20Rzeczywistych)
