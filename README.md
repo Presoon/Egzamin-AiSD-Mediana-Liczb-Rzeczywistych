@@ -15,6 +15,6 @@
 Linki:
 * [Katalog zawierający pliki projektu](https://github.com/Presoon/Egzamin-AiSD-Mediana-Liczb-Rzeczywistych/tree/master/Mediana%20Liczb%20Rzeczywistych)
 * [Katalog zawierajacy testowe bazy danych](https://github.com/Presoon/Egzamin-AiSD-Mediana-Liczb-Rzeczywistych/tree/master/Mediana%20Liczb%20Rzeczywistych/ExDatabases)
-* [Katalog dokumentacji](https://github.com/Presoon/)
+* [Katalog dokumentacji](https://github.com/Presoon/Egzamin-AiSD-Mediana-Liczb-Rzeczywistych/blob/master/Dokumentacja%20egzaminu%20AiSD.pdf)
 
 ###### Testowe bazy danych zostały wygenerowane przy pomocy narzędzia: [onlinerandomtools](https://onlinerandomtools.com/generate-random-numbers)
